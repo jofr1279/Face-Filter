@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+data
+.idea
+cached_data.npy
+model.h5

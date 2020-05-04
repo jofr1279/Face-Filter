@@ -1,0 +1,7 @@
+pygame
+requests
+pip install Pillow
+numpy
+matplotlib
+tensorflow
+Keras

@@ -1,6 +1,6 @@
 pygame
 requests
-pip install Pillow
+pillow
 numpy
 matplotlib
 tensorflow
